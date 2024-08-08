@@ -1,6 +1,5 @@
-# StudentScore
+# Student Score and Study Hour Analysis
 
-# Student Study Hours Analysis
 
 ## Overview
 
